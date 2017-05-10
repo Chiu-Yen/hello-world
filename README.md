@@ -1,2 +1,3 @@
 # hello-world
-the first testing project on github, just said hello world
+A frond-end engineer Chiu-Yen from Taiwan
+Hello, world.

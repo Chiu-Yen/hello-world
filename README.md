@@ -1,3 +1,2 @@
 # hello-world
-the first testing project on github, just said hello world
-this is the branches two changes
+editor: A frond-end engineer Chiu-Yen from Taiwan.
